@@ -1,5 +1,5 @@
 
-## 🌱 Etudiante à l'école 42
+## 🌱 Etudiante à l'école 42 Paris
 ## 💼 Développeuse Web Full Stack
 
 ---
