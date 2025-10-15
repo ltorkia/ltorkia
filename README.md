@@ -35,4 +35,5 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 
-
+---
+![Codewars](https://www.codewars.com/users/lee.t/badges/large)
