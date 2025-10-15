@@ -1,5 +1,5 @@
 
-## 🌱 Student at 42 Paris
+## 🌱 Common Core Graduate at 42 Paris
 
 ---
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
