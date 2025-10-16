@@ -13,6 +13,8 @@ Get in touch:
 
 ---
 ### Skills
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltorkia&layout=compact&theme=dark" alt="Top Languages">
+
 #### Frontend / UI
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -20,10 +22,12 @@ Get in touch:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
 ![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=flat-square&logo=gimp&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-E72429?style=flat-square&logo=Canvas&logoColor=white)
 
