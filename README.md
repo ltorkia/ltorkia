@@ -1,10 +1,19 @@
 
 ## 💻 Software Developer
+👋 Hi there ! I’m Lee, turning ideas into functional and modern web applications.
+
+Get in touch:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-torkia/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lee.torkia@gmail.com)
+
+---
+### Training / Certifications
 **🎓 RNCP Level 3 (Web Development)**<br>
 **🚀 Completed 42 School Common Core**
 
 ---
-### Frontend / UI
+### Skills
+#### Frontend / UI
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -15,7 +24,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### Backend / Programming
+#### Backend / Programming
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-20232A?style=flat-square&logo=fastify&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -23,11 +32,11 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white)
 
-### Database
+#### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Tools / DevOps / Build
+#### Tools / DevOps / Build
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-000000?style=flat-square&logo=gnu-make&logoColor=white)
@@ -39,5 +48,5 @@
 ![JSON](https://img.shields.io/badge/-JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 
 ---
-### Training
+### Coding Challenges
 ![Codewars](https://www.codewars.com/users/lee.t/badges/large)
