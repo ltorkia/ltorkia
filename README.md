@@ -29,11 +29,15 @@
 
 ### Tools / DevOps / Build
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-000000?style=flat-square&logo=gnu-make&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 
 ---
+### Training
 ![Codewars](https://www.codewars.com/users/lee.t/badges/large)
