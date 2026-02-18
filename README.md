@@ -8,7 +8,7 @@ Get in touch:
 
 ---
 ### Training / Certifications
-**🎓 RNCP Level 3 (Web Development)**<br>
+**🎓 RNCP Level 5 (Web Development)**<br>
 **🚀 Completed 42 School Common Core**
 
 ---
