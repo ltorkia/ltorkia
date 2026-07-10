@@ -1,10 +1,5 @@
 
 ## 💻 Software Developer
-👋 Hi there ! I’m Lee, turning ideas into functional and modern web applications.
-
-Get in touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-torkia/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lee.torkia@gmail.com)
 
 ---
 ### Training / Certifications
